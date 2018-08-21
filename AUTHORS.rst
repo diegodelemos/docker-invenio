@@ -7,4 +7,10 @@
 
 Contributors
 ============
+Superman
+Spiderman
+Aquaman
+Batman
+Wonderwoman
+Flash
 
