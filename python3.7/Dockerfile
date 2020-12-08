@@ -4,8 +4,8 @@
 # Invenio is free software; you can redistribute it and/or modify it
 # under the terms of the MIT License; see LICENSE file for more details.
 #
-
-FROM centos:8.2.2004
+ARG CENTOS_VERSION=7
+FROM centos:${CENTOS_VERSION}
 
 
 # set the locale
